@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/action">
+        <select name="subject" id="subject">
+            <option value="math">Math</option>
+            <option value="phy">Physics</option>
+            <option value="chem">Chemistry</option>
+        </select><br>
+        <label for="volume"> Select your Volume level</label>
+        <input type="range" min="0" max="100" name="vol" step="10"><br>
+        <lable for="feedback">Please provide your valuable feedback:</lable>
+        <textarea id="feedback" name="feedback" rows="7" cols="20"
+            placeholder="write your feedback here"></textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+
+</html>
