@@ -1,0 +1,33 @@
+/* h1 {
+    display: inline;
+}
+
+span {
+    display: block;
+} */
+/* span {
+    background-color: brown;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+div {
+    background-color: rgb(17, 176, 80);
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+} */
+
+div {
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+}

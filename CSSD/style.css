@@ -1,0 +1,13 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: #ff000096;
+}
+
+#pooja {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: palegoldenrod;
+    opacity: 0.7;
+}

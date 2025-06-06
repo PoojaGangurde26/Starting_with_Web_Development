@@ -1,0 +1,38 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+
+#static {
+    background-color: aquamarine;
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+
+#relative {
+    background-color: chocolate;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+#abs {
+    background-color: chocolate;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+
+}
+
+#fxd {
+    background-color: chocolate;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}

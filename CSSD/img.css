@@ -1,0 +1,9 @@
+div {
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+    /* background-color: chocolate; */
+    border: 2px solid black;
+    background-image: url("pooja_car.jpg");
+    background-size: cover;
+}
